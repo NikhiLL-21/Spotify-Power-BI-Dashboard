@@ -1,8 +1,6 @@
 # Spotify-Power-BI-Dashboard
 
-# 🎧 Spotify Data Analysis Dashboard
-
-## 📌 Project Overview
+##  Project Overview
 
 This project presents a **Spotify Analytics Dashboard** designed to help stakeholders such as **music analysts, playlist managers, and marketing teams** monitor and analyze song and artist performance.
 
